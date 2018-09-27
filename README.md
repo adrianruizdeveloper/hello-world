@@ -1,1 +1,1 @@
-# hello-world :camel:
+# hello-world :camel: :clap:
